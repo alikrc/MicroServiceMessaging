@@ -1,0 +1,7 @@
+@Newsletter.Api_HostAddress = http://localhost:51444
+@id = 9056B332-E0D8-4B00-AB04-1BAD307911C2
+
+GET {{Newsletter.Api_HostAddress}}/api/articles/{id}
+Accept: application/json
+
+###
